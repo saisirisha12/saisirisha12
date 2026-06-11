@@ -16,7 +16,7 @@
 - Software Engineer with experience in **Java, Spring Boot, React, Angular, TypeScript, C#, ASP.NET MVC, and Oracle SQL**
 - Worked on enterprise applications across **financial services, insurance systems, analytics platforms, and developer tools**
 - Interested in **backend engineering, full-stack development, distributed systems, cloud, and AI-powered applications**
-- - Currently strengthening my skills in **RAG systems, LLM workflows, system design, Kafka, Docker, Kubernetes, and AWS**
+- Currently strengthening my skills in **RAG systems, LLM workflows, system design, Kafka, Docker, Kubernetes, and AWS**
 
 ---
 
